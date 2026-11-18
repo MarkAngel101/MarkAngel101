@@ -1,59 +1,53 @@
 <div align="center">
   <h1>Mark Angel Salenga</h1>
 
-### Aspiring IT Professional | Software Development | Database Management
 
-I am Mark Angel N. Salenga, an aspiring IT professional with a strong interest in software development, programming, and database management. I enjoy tackling complex problems, developing efficient solutions, and continuously improving my technical skills.
+<h1 align="center">Hi, I'm Mark Angel N. Salenga 👋</h1>
 
-My journey in technology began when I pursued a **Bachelor of Science in Information Technology** at New Era University. Through my academic experience and certifications, I continue to strengthen my knowledge and explore opportunities to grow in the field of Information Technology.
+<h3 align="center">BS Information Technology Student | Aspiring IT Professional</h3>
+
+<p align="center">
+  Passionate about programming, software development, and database management.
+</p>
 
 ---
 
-## 🎓 Education
+### About Me
 
-**Bachelor of Science in Information Technology**  
-New Era University  
+I am Mark Angel N. Salenga, an aspiring IT professional with a strong interest in coding, software development, and database management. I enjoy solving complex problems, exploring new technologies, and creating efficient solutions. My journey in technology began when I pursued a Bachelor of Science in Information Technology at New Era University.
+
+### Education
+
+**New Era University**  
+Bachelor of Science in Information Technology  
 2023 – Present
 
----
-
-## 📜 Certifications
+### Certifications
 
 - NoSQL and DBaaS 101
 - Oracle Cloud Data Management 2023 Certified Foundations Associate
 - Oracle Cloud Infrastructure 2023 Certified Foundations Associate
 
----
+### Technical Skills
 
-## 💻 Technical Skills
+| Category | Skills |
+|---|---|
+| Programming | Java, JavaScript |
+| Database | IBM DB2 Cloud |
+| Tools | Lucidchart, Jaspersoft Studio, Eclipse |
+| Web Technologies | HTML |
 
-**Programming Languages**
-- Java
-- JavaScript
-
-**Databases**
-- IBM DB2 Cloud
-
-**Tools and Technologies**
-- Lucidchart
-- Jaspersoft Studio
-- Eclipse
-- HTML
-
----
-
-## 📫 Contact Information
+### Connect With Me
 
 - **Email:** [markangelsalenga@gmail.com](mailto:markangelsalenga@gmail.com)
-- **LinkedIn:** [Mark Angel N. Salenga](https://www.linkedin.com/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mark-angel-salenga-914620405/)
 
 ---
 
-## 🎯 Career Objective
+<p align="center">
+  <i>"Constantly learning, continuously improving, and building solutions through technology."</i>
+</p>
 
-To continuously develop my technical expertise in software development and database management while gaining practical experience in solving real-world problems. I aspire to contribute to innovative projects, collaborate with other professionals, and grow into a skilled IT professional.
-
----
 
 ## Tech Stack
 
