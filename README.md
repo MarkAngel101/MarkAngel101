@@ -1,9 +1,6 @@
 <div align="center">
   <h1>Mark Angel Salenga</h1>
 
-
-<h1 align="center">Hi, I'm Mark Angel N. Salenga 👋</h1>
-
 <h3 align="center">BS Information Technology Student | Aspiring IT Professional</h3>
 
 <p align="center">
