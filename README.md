@@ -1,7 +1,5 @@
 <div align="center">
   <h1>Mark Angel Salenga</h1>
-
-
 ---
 
 I'm a student building a data analyst portfolio from the ground up — learning by doing, committing every day, and turning raw data into clear stories.
