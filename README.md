@@ -1,10 +1,57 @@
 <div align="center">
   <h1>Mark Angel Salenga</h1>
+
+### Aspiring IT Professional | Software Development | Database Management
+
+I am Mark Angel N. Salenga, an aspiring IT professional with a strong interest in software development, programming, and database management. I enjoy tackling complex problems, developing efficient solutions, and continuously improving my technical skills.
+
+My journey in technology began when I pursued a **Bachelor of Science in Information Technology** at New Era University. Through my academic experience and certifications, I continue to strengthen my knowledge and explore opportunities to grow in the field of Information Technology.
+
 ---
 
-I'm a student building a data analyst portfolio from the ground up — learning by doing, committing every day, and turning raw data into clear stories.
+## 🎓 Education
 
-Currently focused on exploratory data analysis, SQL analytics, and business dashboards.
+**Bachelor of Science in Information Technology**  
+New Era University  
+2023 – Present
+
+---
+
+## 📜 Certifications
+
+- NoSQL and DBaaS 101
+- Oracle Cloud Data Management 2023 Certified Foundations Associate
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate
+
+---
+
+## 💻 Technical Skills
+
+**Programming Languages**
+- Java
+- JavaScript
+
+**Databases**
+- IBM DB2 Cloud
+
+**Tools and Technologies**
+- Lucidchart
+- Jaspersoft Studio
+- Eclipse
+- HTML
+
+---
+
+## 📫 Contact Information
+
+- **Email:** [markangelsalenga@gmail.com](mailto:markangelsalenga@gmail.com)
+- **LinkedIn:** [Mark Angel N. Salenga](https://www.linkedin.com/)
+
+---
+
+## 🎯 Career Objective
+
+To continuously develop my technical expertise in software development and database management while gaining practical experience in solving real-world problems. I aspire to contribute to innovative projects, collaborate with other professionals, and grow into a skilled IT professional.
 
 ---
 
@@ -31,4 +78,4 @@ Currently focused on exploratory data analysis, SQL analytics, and business dash
 ![Git](https://img.shields.io/badge/Git-A32D2D?style=flat-square&logo=git&logoColor=F7C1C1)
 ![macOS](https://img.shields.io/badge/macOS-444441?style=flat-square&logo=apple&logoColor=white)
 
-
+⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects.*
