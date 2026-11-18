@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Mark Angel Salenga</h1>
-  <p>Data Analyst in the Making · Student · Philippines 🇵🇭</p>
-</div>
+
 
 ---
 
