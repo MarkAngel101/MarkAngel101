@@ -21,9 +21,9 @@ Bachelor of Science in Information Technology
 
 ## Certifications
 
-- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/ed66e0b93fdd4a768f874716849bb7fd)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](certificates/oracle-data-management.pdf)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certificates/oracle-cloud-infrastructure.pdf)
+[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/ed66e0b93fdd4a768f874716849bb7fd)
+[Oracle Cloud Data Management 2023 Certified Foundations Associate](certificates/oracle-data-management.pdf)
+[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certificates/oracle-cloud-infrastructure.pdf)
 
 ### Technical Skills
 
@@ -36,8 +36,8 @@ Bachelor of Science in Information Technology
 
 ### Connect With Me
 
-- **Email:** [markangelsalenga@gmail.com](mailto:markangelsalenga@gmail.com)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mark-angel-salenga-914620405/)
+**Email:** [markangelsalenga@gmail.com](mailto:markangelsalenga@gmail.com)
+**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mark-angel-salenga-914620405/)
 
 ---
 
