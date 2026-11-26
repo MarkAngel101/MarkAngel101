@@ -23,8 +23,6 @@ Bachelor of Science in Information Technology
 ## Certifications
 
 - [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/ed66e0b93fdd4a768f874716849bb7fd)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](certificates/oracle-data-management.pdf)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certificates/oracle-cloud-infrastructure.pdf)
 
 ### Technical Skills
 
